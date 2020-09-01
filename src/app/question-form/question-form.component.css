@@ -1,0 +1,14 @@
+.quiz {
+  width: 75%;
+  background-color: #504d4d;
+  font-size: x-large;
+}
+
+.title {
+  color: aliceblue;
+}
+
+span {
+  font-size: x-large;
+  margin-top: 10px;
+}

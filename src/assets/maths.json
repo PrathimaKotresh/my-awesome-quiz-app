@@ -42,11 +42,11 @@
     "label": "What is 8 * 4?",
     "choices": [{
         "value": "32",
-        "correct": false
+        "correct": true
       },
       {
         "value": "23",
-        "correct": true
+        "correct": false
       },
       {
         "value": "16",
@@ -66,11 +66,11 @@
       },
       {
         "value": "8",
-        "correct": true
+        "correct": false
       },
       {
         "value": "9",
-        "correct": false
+        "correct": true
       },
       {
         "value": "19",
@@ -86,11 +86,11 @@
       },
       {
         "value": "15",
-        "correct": true
+        "correct": false
       },
       {
         "value": "0",
-        "correct": false
+        "correct": true
       },
       {
         "value": "pi",
